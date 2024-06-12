@@ -24,5 +24,21 @@
         <DataTemplate DataType="{x:Type vm:ReportViewModel}">
             <views:ReportView/>
         </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:BookingHistoryViewModel}">
+            <views:BookingHistory/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:EditProfileViewModel}">
+            <views:EditProfileWindow/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:ConfirmDeleteViewModel}">
+            <views:ConfirmView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AdminEditUserViewModel}">
+            <views:AdminEditUserView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AdminEditRoomViewModel}">
+            <views:AdminEditRoomView/>
+        </DataTemplate>
+        
     </Application.Resources>
 </Application>

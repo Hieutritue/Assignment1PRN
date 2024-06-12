@@ -62,7 +62,7 @@ namespace Assignment1PRN.ViewModels
             }
             Customer customer = customerService.GetCustomer(email,password);
             if(customer.CustomerStatus==1)
-                navigation.ViewModel = new UserProfileViewModel(customer);
+                navigation.ViewModel = new UserProfileViewModel(customer,navigation);
             else
             {
                 navigation.ViewModel = new AdminWorkSpaceViewModel(navigation);

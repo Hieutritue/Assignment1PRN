@@ -18,5 +18,29 @@ namespace Assignment1PRN.Service
         {
             return GetAll().Where(c => c.EmailAddress .Equals(email)  && c.Password.Equals(password)).ToList()[0];
         }
+
+        public void UpdateCustomer(int id,String name, String telephone, String mail, DateOnly? birthday, int status = 10)
+        {
+            Customer c = FuminiHotelManagementContext.Instance().Customers.Find(id);
+            if (c == null) return;
+            c.CustomerFullName = name;
+            c.EmailAddress = mail;
+            c.Telephone = telephone;
+            c.CustomerBirthday = birthday;
+            if (status != 10)
+                c.CustomerStatus = (byte)status;
+            FuminiHotelManagementContext.Instance().SaveChanges();
+        }
+        public void DeleteCustomer(int id) {
+            Customer c = FuminiHotelManagementContext.Instance().Customers.Find(id);
+            if(c == null) return;
+            FuminiHotelManagementContext.Instance().Customers.Remove(c);
+            FuminiHotelManagementContext.Instance().SaveChanges();
+        }
+
+        public Customer GetById(int id)
+        {
+            return FuminiHotelManagementContext.Instance().Customers.Find(id);
+        }
     }
 }

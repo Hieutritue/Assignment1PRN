@@ -36,10 +36,11 @@
                 <TextBlock Text="Birth Day" VerticalAlignment="Top" Margin="0 90 0 0"/>
                 <TextBlock Text="{Binding Customer.CustomerBirthday}" VerticalAlignment="Top" Margin="100 90 0 0" />
 
-                <Button Content="Edit profile" Command="{Binding EditProfile}" Grid.ColumnSpan="2" Margin="38,149,-38,208"></Button>
-                <Button Content="View Booking" Command="{Binding ViewBooking}" Margin="70,149,-170,208" Grid.Column="1"/>
-                <Button Background="Red" Foreground="White" Content="Logout" Command="{Binding Logout}" Margin="514,320,-614,36" Grid.Column="1"/>
-            </Grid>
+                </Grid>
         </Grid>
+        <Button Content="Edit profile" Command="{Binding EditProfile}" Margin="118,192,599,212" Height="40"/>
+        <Button Content="View Booking" Command="{Binding ViewBooking}" Margin="237,192,470,212" Height="40"/>
+        <Button Background="Red" Foreground="White" Content="Logout" Command="{Binding Logout}" Margin="27,373,53,27" Height="40"/>
+
     </Grid>
 </UserControl>

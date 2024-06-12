@@ -13,12 +13,12 @@ public class AdminWorkSpaceViewModel:ViewModel
 
     public void ToUserManage(Navigation navigation)
     {
-        navigation.ViewModel = new UserManageViewModel();
+        navigation.ViewModel = new UserManageViewModel(navigation);
     }
 
     public void ToRoomManage(Navigation navigation)
     {
-        navigation.ViewModel = new RoomManageViewModel();
+        navigation.ViewModel = new RoomManageViewModel(navigation);
     }
 
     public void ToReport(Navigation navigation)

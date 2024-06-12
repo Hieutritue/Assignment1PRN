@@ -7,10 +7,10 @@
         xmlns:vm="clr-namespace:Assignment1PRN.ViewModels"
         xmlns:views="clr-namespace:Assignment1PRN.Views"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="780" Width="800">
 
 
     <Grid>
-        <ContentControl Content="{Binding CurrentViewModel}"/>
+        <ContentControl Name="ContentControl" Content="{Binding CurrentViewModel}"/>
     </Grid>
 </Window>

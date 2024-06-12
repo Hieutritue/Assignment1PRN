@@ -5,11 +5,30 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:Assignment1PRN.Views"
              mc:Ignorable="d"
-             d:DesignHeight="300" d:DesignWidth="300">
-    <Grid>
-        <Button Command="{Binding AddRoom}" Height="15" Width="45" HorizontalAlignment="Left" VerticalAlignment="Top" Margin=" 10 10 0 0" Content="Add customer" FontSize="6"></Button>
-        <DataGrid ItemsSource="{Binding RoomList}">
-            
+             d:DesignHeight="780" d:DesignWidth="800">
+    <Grid Margin="0,241,0,32">
+        <TextBlock Margin="20,-238,0,216" FontSize="20" FontWeight="Bold" Text="Room Management"/>
+        <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding RoomInformations}" Margin="0,-189,0,236">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Header="Id" Binding="{Binding RoomId}"/>
+                <DataGridTextColumn Width="*" Header="Full name" Binding="{Binding RoomNumber}"/>
+                <DataGridTextColumn Width="*" Header="Phone" Binding="{Binding RoomDetailDescription}"/>
+                <DataGridTextColumn Width="*" Header="Email" Binding="{Binding RoomMaxCapacity}"/>
+                <DataGridTextColumn Width="*" Header="Birthday" Binding="{Binding RoomTypeId}"/>
+                <DataGridTextColumn Width="*" Header="Status" Binding="{Binding RoomStatus}"/>
+                <DataGridTextColumn Width="*" Header="Price" Binding="{Binding RoomPricePerDay}"/>
+                <DataGridTemplateColumn Width="*" Header="Action" >
+                    <DataGridTemplateColumn.CellTemplate >
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Delete" Command="{Binding DataContext.Delete, RelativeSource={RelativeSource AncestorType={x:Type local:RoomManageView}}}" CommandParameter="{Binding RoomId}"/>
+                                <Button Content="Update" Command="{Binding DataContext.Update, RelativeSource={RelativeSource AncestorType={x:Type local:RoomManageView}}}" CommandParameter="{Binding RoomId}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
         </DataGrid>
+        <Button Command="{Binding GoBack}" Content="Go Back" Margin="301,296,298,154"/>
     </Grid>
 </UserControl>

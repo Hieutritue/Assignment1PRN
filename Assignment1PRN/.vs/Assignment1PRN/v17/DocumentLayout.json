@@ -1,94 +1,166 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\",
+  "WorkspaceRootPath": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\usermanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\usermanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\confirmview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\confirmview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\confirmview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\confirmview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\util\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:util\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\adminworkspace.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\adminworkspace.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\usermanageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\usermanageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\updatecustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\updatecustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\confirmdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\confirmdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\assignment1prn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:assignment1prn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\bookinghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\bookinghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\roommanageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\roommanageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\roommanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\roommanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\service\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:service\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\usermanageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\usermanageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\util\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:util\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\assignment1prn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:assignment1prn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\thail\\source\\repos\\assignment1prn\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\hochanh\\prn212_thailehieu\\assignment1prn\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UpdateCustomerViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\UpdateCustomerViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,252 +178,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADgvxoAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "ConfirmView.xaml.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\ConfirmView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ConfirmView.xaml.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\ConfirmView.xaml.cs",
+              "RelativeToolTip": "Views\\ConfirmView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T10:10:12.129Z",
+              "WhenOpened": "2024-06-12T07:54:50.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\ViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ViewModel.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\ViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADgvxEAAAAwAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserManageViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\UserManageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserManageViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\UserManageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserManageViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:29:50.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseCommand.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Command\\BaseCommand.cs",
-              "RelativeDocumentMoniker": "Command\\BaseCommand.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Command\\BaseCommand.cs",
-              "RelativeToolTip": "Command\\BaseCommand.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAASwA4AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:12:29.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Service\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Service\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Service\\CustomerService.cs",
-              "RelativeToolTip": "Service\\CustomerService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:30:52.04Z",
+              "WhenOpened": "2024-06-11T18:02:23.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\LoginPageViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\LoginPageViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAkwC0AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:06:04.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserProfile.xaml",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Views\\UserProfile.xaml",
-              "RelativeDocumentMoniker": "Views\\UserProfile.xaml",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Views\\UserProfile.xaml",
-              "RelativeToolTip": "Views\\UserProfile.xaml",
+              "Title": "UserManageView.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UserManageView.xaml",
+              "RelativeDocumentMoniker": "Views\\UserManageView.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UserManageView.xaml",
+              "RelativeToolTip": "Views\\UserManageView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T13:45:58.598Z",
+              "WhenOpened": "2024-06-11T18:07:34.559Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:16:11.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T07:13:30.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBcAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:30:43.218Z"
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T07:13:30.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Navigation.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Util\\Navigation.cs",
-              "RelativeDocumentMoniker": "Util\\Navigation.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Util\\Navigation.cs",
-              "RelativeToolTip": "Util\\Navigation.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:07:58.675Z"
+              "Title": "AdminWorkspace.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\AdminWorkspace.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminWorkspace.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\AdminWorkspace.xaml",
+              "RelativeToolTip": "Views\\AdminWorkspace.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:48:35.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T09:39:43.877Z"
+              "DocumentIndex": 1,
+              "Title": "BookingHistory.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\BookingHistory.xaml",
+              "RelativeDocumentMoniker": "Views\\BookingHistory.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\BookingHistory.xaml",
+              "RelativeToolTip": "Views\\BookingHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:35:47.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "ConfirmView.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\ConfirmView.xaml",
+              "RelativeDocumentMoniker": "Views\\ConfirmView.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\ConfirmView.xaml",
+              "RelativeToolTip": "Views\\ConfirmView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T21:03:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserProfileViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\UserProfileViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\UserProfileViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\UserProfileViewModel.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\UserProfileViewModel.cs",
               "RelativeToolTip": "ViewModels\\UserProfileViewModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAvwAwAAAAPAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T13:48:26.64Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCustomerView.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UpdateCustomerView.xaml",
+              "RelativeDocumentMoniker": "Views\\UpdateCustomerView.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UpdateCustomerView.xaml",
+              "RelativeToolTip": "Views\\UpdateCustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T21:35:18.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UpdateCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "Views\\UpdateCustomerViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UpdateCustomerViewModel.cs",
+              "RelativeToolTip": "Views\\UpdateCustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:35:34.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfirmDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\ConfirmDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ConfirmDeleteViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\ConfirmDeleteViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ConfirmDeleteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:07:47.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Command\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "Command\\BaseCommand.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Command\\BaseCommand.cs",
+              "RelativeToolTip": "Command\\BaseCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:12:29.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\CustomerService.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Service\\CustomerService.cs",
+              "RelativeToolTip": "Service\\CustomerService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:30:52.04Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Views\\LoginView.xaml",
-              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Views\\LoginView.xaml",
-              "RelativeToolTip": "Views\\LoginView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T12:46:19.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-10T08:23:42.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Views\\LoginView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Views\\LoginView.xaml.cs",
-              "RelativeToolTip": "Views\\LoginView.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:47:16.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FuminiHotelManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\FuminiHotelManagementContext.cs",
-              "RelativeDocumentMoniker": "Models\\FuminiHotelManagementContext.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\FuminiHotelManagementContext.cs",
-              "RelativeToolTip": "Models\\FuminiHotelManagementContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:16:05.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Assignment1PRN.csproj",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Assignment1PRN.csproj",
-              "RelativeDocumentMoniker": "Assignment1PRN.csproj",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Assignment1PRN.csproj",
-              "RelativeToolTip": "Assignment1PRN.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-11T13:29:27.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RoomInformation.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\RoomInformation.cs",
-              "RelativeDocumentMoniker": "Models\\RoomInformation.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\RoomInformation.cs",
-              "RelativeToolTip": "Models\\RoomInformation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:16:03.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:23:45.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BookingDetail.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\BookingDetail.cs",
-              "RelativeDocumentMoniker": "Models\\BookingDetail.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\BookingDetail.cs",
-              "RelativeToolTip": "Models\\BookingDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T08:16:12.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "BookingReservation.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\BookingReservation.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\BookingReservation.cs",
               "RelativeDocumentMoniker": "Models\\BookingReservation.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\BookingReservation.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\BookingReservation.cs",
               "RelativeToolTip": "Models\\BookingReservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +347,305 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\BookingHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookingHistoryViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\BookingHistoryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BookingHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:28:23.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:06:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "Views\\UserProfile.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UserProfile.xaml",
+              "RelativeToolTip": "Views\\UserProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T13:45:58.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\ReportView.xaml",
+              "RelativeDocumentMoniker": "Views\\ReportView.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\ReportView.xaml",
+              "RelativeToolTip": "Views\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:43:45.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditProfileWindow.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\EditProfileWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\EditProfileWindow.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\EditProfileWindow.xaml",
+              "RelativeToolTip": "Views\\EditProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:06:58.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomManageView.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\RoomManageView.xaml",
+              "RelativeDocumentMoniker": "Views\\RoomManageView.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\RoomManageView.xaml",
+              "RelativeToolTip": "Views\\RoomManageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:07:33.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvxEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:29:50.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomManageViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\RoomManageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RoomManageViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\RoomManageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RoomManageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:28:21.513Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "BookingReservationService.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Service\\BookingReservationService.cs",
+              "RelativeDocumentMoniker": "Service\\BookingReservationService.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Service\\BookingReservationService.cs",
+              "RelativeToolTip": "Service\\BookingReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:26:01.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditProfileViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\EditProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditProfileViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\EditProfileViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditProfileViewModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\EditProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditProfileWindow.xaml.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\EditProfileWindow.xaml.cs",
+              "RelativeToolTip": "Views\\EditProfileWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:17:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:23:42.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T12:46:19.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserManageView.xaml.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UserManageView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserManageView.xaml.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\UserManageView.xaml.cs",
+              "RelativeToolTip": "Views\\UserManageView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:51.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:10:12.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:47:16.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:16:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:30:43.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Util\\Navigation.cs",
+              "RelativeDocumentMoniker": "Util\\Navigation.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Util\\Navigation.cs",
+              "RelativeToolTip": "Util\\Navigation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:07:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:39:43.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\FuminiHotelManagementContext.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "Models\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:16:05.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Assignment1PRN.csproj",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Assignment1PRN.csproj",
+              "RelativeDocumentMoniker": "Assignment1PRN.csproj",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Assignment1PRN.csproj",
+              "RelativeToolTip": "Assignment1PRN.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T13:29:27.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "Models\\RoomInformation.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\RoomInformation.cs",
+              "RelativeToolTip": "Models\\RoomInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:16:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:23:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "Models\\BookingDetail.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "Models\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:16:12.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "RoomType.cs",
-              "DocumentMoniker": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\RoomType.cs",
+              "DocumentMoniker": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\RoomType.cs",
               "RelativeDocumentMoniker": "Models\\RoomType.cs",
-              "ToolTip": "C:\\Users\\thail\\source\\repos\\Assignment1PRN\\Models\\RoomType.cs",
+              "ToolTip": "C:\\hochanh\\PRN212_ThaiLeHieu\\Assignment1PRN\\Models\\RoomType.cs",
               "RelativeToolTip": "Models\\RoomType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
