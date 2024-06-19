@@ -11,6 +11,7 @@ public class AdminWorkSpaceViewModel:ViewModel
     public ICommand ManageRoom { get; set; }
     public ICommand Report { get; set; }
 
+    public ICommand Logout { get; set; }
     public void ToUserManage(Navigation navigation)
     {
         navigation.ViewModel = new UserManageViewModel(navigation);
@@ -26,10 +27,16 @@ public class AdminWorkSpaceViewModel:ViewModel
         navigation.ViewModel = new ReportViewModel();
     }
 
+    public void ToLogin(Navigation navigation)
+    {
+        navigation.ViewModel = new LoginPageViewModel(navigation);
+    }
+
     public AdminWorkSpaceViewModel(Navigation navigation)
     {
         ManageUser = new BaseCommand(()=>ToUserManage(navigation));
         ManageRoom = new BaseCommand(()=>ToRoomManage(navigation));
         Report = new BaseCommand(()=>ToReport(navigation));
+        Logout = new BaseCommand(()=>ToLogin(navigation));
     }
 }

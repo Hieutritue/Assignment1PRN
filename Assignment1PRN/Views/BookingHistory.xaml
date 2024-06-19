@@ -15,15 +15,7 @@
                 <DataGridTextColumn Width="*" Header="Date" Binding="{Binding BookingDate}"/>
                 <DataGridTextColumn Width="*" Header="Total Price" Binding="{Binding TotalPrice}"/>
                 <DataGridTextColumn Width="*" Header="Status" Binding="{Binding BookingStatus}"/>
-                <DataGridTemplateColumn Width="*" Header="Action" >
-                    <DataGridTemplateColumn.CellTemplate >
-                        <DataTemplate>
-                            <StackPanel Orientation="Horizontal">
-                                <Button Content="Deltete"/>
-                            </StackPanel>
-                        </DataTemplate>
-                    </DataGridTemplateColumn.CellTemplate>
-                </DataGridTemplateColumn>
+                 
             </DataGrid.Columns>
         </DataGrid>
         <Button Command="{Binding GoBack}" Content="Go Back" Margin="301,296,298,154"/>
