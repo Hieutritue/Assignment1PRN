@@ -18,6 +18,7 @@ public class UserManageViewModel : ViewModel
     public ICommand Delete { get; set; }
     public ICommand Update { get; set; }
     public ICommand GoBack { get; set; }
+    public ICommand Add { get; set; }
     public UserManageViewModel(Navigation navigation)
     {
         customerService = new CustomerService();
@@ -25,6 +26,11 @@ public class UserManageViewModel : ViewModel
         Delete = new ParamCommand((customerId)=>navigation.ViewModel=new ConfirmDeleteViewModel(new BaseCommand(() => DoConfirm((int)customerId, navigation)),new BaseCommand(() => DoCancel(navigation))));
         Update = new ParamCommand((customerId) => DoUpdate((int)customerId, navigation));
         GoBack = new BaseCommand(() => DoGoBack(navigation));
+        Add = new BaseCommand(()=>DoAdd(navigation));
+    }
+    public void DoAdd(Navigation navigation)
+    {
+        navigation.ViewModel = new AdminAddUserViewModel(navigation);
     }
     public void DoConfirm(int customerId,Navigation navigation)
     { 

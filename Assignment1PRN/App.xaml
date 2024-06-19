@@ -39,6 +39,11 @@
         <DataTemplate DataType="{x:Type vm:AdminEditRoomViewModel}">
             <views:AdminEditRoomView/>
         </DataTemplate>
-        
+        <DataTemplate DataType="{x:Type vm:AdminAddUserViewModel}">
+            <views:AdminAddUserView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AdminAddRoomViewModel}">
+            <views:AdminAddRoomView/>
+        </DataTemplate>
     </Application.Resources>
 </Application>

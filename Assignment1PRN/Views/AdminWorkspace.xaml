@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:Assignment1PRN.Views"
              mc:Ignorable="d"
-             d:DesignHeight="700" d:DesignWidth="800">
+             d:DesignHeight="750" d:DesignWidth="800">
     <Grid>
         <TextBlock Foreground="Navy" FontSize="30" Text="Admin Workspace" Margin="10 0 0 0"></TextBlock>
         <Button Command="{Binding ManageUser}" Height="30" Width="90" Margin=" 0 0 100 0" Content="Customers"></Button>

@@ -15,6 +15,7 @@ public class RoomManageViewModel:ViewModel
     public ICommand Delete { get; set; }
     public ICommand Update { get; set; }
     public ICommand GoBack { get; set; }
+    public ICommand Add { get; set; }
     public RoomManageViewModel(Navigation navigation)
     {
         _roomService = new RoomService();
@@ -22,6 +23,11 @@ public class RoomManageViewModel:ViewModel
         Delete = new ParamCommand((id)=>navigation.ViewModel=new ConfirmDeleteViewModel(new BaseCommand(() => DoConfirm((int)id, navigation)),new BaseCommand(() => DoCancel(navigation))));
         Update = new ParamCommand((id) => DoUpdate((int)id, navigation));
         GoBack = new BaseCommand(() => DoGoBack(navigation));
+        Add = new BaseCommand(() => DoAdd(navigation));
+    }
+    public void DoAdd(Navigation navigation)
+    {
+        navigation.ViewModel = new AdminAddRoomViewModel(navigation);
     }
     public void DoConfirm(int roomId,Navigation navigation)
     { 

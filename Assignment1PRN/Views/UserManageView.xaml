@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:Assignment1PRN.Views"
              mc:Ignorable="d"
              Background="White"
-                      d:DesignHeight="780" d:DesignWidth="800">
+                      d:DesignHeight="740" d:DesignWidth="800">
     <Grid Margin="0,241,0,32">
         <TextBlock Margin="20,-238,0,216" FontSize="20" FontWeight="Bold" Text="Customer Management"/>
         <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding Customers}" Margin="0,-189,0,236">
@@ -29,6 +29,7 @@
                 </DataGridTemplateColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <Button Command="{Binding GoBack}" Content="Go Back" Margin="301,296,298,154"/>
+        <Button Command="{Binding Add}" Content="Add" Margin="301,310,298,128"/>
+        <Button Command="{Binding GoBack}" Content="Go Back" Margin="301,360,298,78"/>
     </Grid>
 </UserControl>

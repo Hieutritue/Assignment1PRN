@@ -42,5 +42,18 @@ namespace Assignment1PRN.Service
         {
             return FuminiHotelManagementContext.Instance().Customers.Find(id);
         }
+
+        public void AddCustomer(String name, String telephone, String mail, DateOnly? birthday, int status, string password)
+        {
+            Customer c = new Customer();
+            c.CustomerFullName = name;
+            c.EmailAddress = mail;
+            c.Telephone = telephone;
+            c.CustomerBirthday = birthday;
+            c.CustomerStatus = (byte)status;
+            c.Password = password;
+            FuminiHotelManagementContext.Instance().Customers.Add(c);
+            FuminiHotelManagementContext.Instance().SaveChanges();
+        }
     }
 }

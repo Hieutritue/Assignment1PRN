@@ -34,6 +34,20 @@ public class RoomService
         FuminiHotelManagementContext.Instance().SaveChanges();
     }
 
+    public void AddRoom(string roomNumber, string description, int? roomMaxCapacity, int roomTypeId, byte? roomStatus, decimal? price)
+    {
+        RoomInformation r = new RoomInformation();
+        
+        r.RoomNumber = roomNumber;
+        r.RoomDetailDescription = description;
+        r.RoomMaxCapacity = roomMaxCapacity;
+        r.RoomTypeId = roomTypeId;
+        r.RoomStatus = roomStatus;
+        r.RoomPricePerDay = price;
+        FuminiHotelManagementContext.Instance().RoomInformations.Add(r);
+        FuminiHotelManagementContext.Instance().SaveChanges();
+    }
+
     public RoomType GetRoomType(int id)
     {
         RoomType r = FuminiHotelManagementContext.Instance().RoomTypes.Find(id);
