@@ -24,7 +24,7 @@ public class AdminWorkSpaceViewModel:ViewModel
 
     public void ToReport(Navigation navigation)
     {
-        navigation.ViewModel = new ReportViewModel();
+        navigation.ViewModel = new ReportViewModel(navigation);
     }
 
     public void ToLogin(Navigation navigation)
